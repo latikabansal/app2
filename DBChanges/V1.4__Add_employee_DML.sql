@@ -1,1 +1,1 @@
-insert into Employee (ID1, NAME) values (13, 'Ms. abc');
+insert into Employee (ID, NAME) values (13, 'Ms. abc');
